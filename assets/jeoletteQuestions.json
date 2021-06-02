@@ -1,0 +1,156 @@
+{
+    "questions": [
+        {
+            "question": "In what year was the first-ever Wimbledon Championship held?",
+            "firstAnswer": "A. 1876",
+            "secondAnswer": "B. 1877",
+            "thirdAnswer": "C. 1878",
+            "fourthAnswer": "D. 1880",
+            "correctAnswer": "B. 1877"
+        },
+        {
+            "question": "Hg is the chemical symbol of which element?",
+            "firstAnswer": "A. Mercury",
+            "secondAnswer": "B. Hydrogen",
+            "thirdAnswer": "C. Bromine",
+            "fourthAnswer": "D. Nickel",
+            "correctAnswer": "A. Mercury"
+        },
+        {
+            "question": "Which email service is owned by Microsoft?",
+            "firstAnswer": "A. Gmail",
+            "secondAnswer": "B. Yahoo! Mail",
+            "thirdAnswer": "C. Outlook",
+            "fourthAnswer": "D. AOL",
+            "correctAnswer": "C. Outlook"
+        },
+        {
+            "question": "Which country produces the most coffee in the world?",
+            "firstAnswer": "A. Argentina",
+            "secondAnswer": "B. Jamaica",
+            "thirdAnswer": "C. Spain",
+            "fourthAnswer": "D. India",
+            "correctAnswer": "B. Jamaica"
+        },
+        {
+            "question": "In which city was Jim Morrison buried?",
+            "firstAnswer": "A. Paris",
+            "secondAnswer": "B. London",
+            "thirdAnswer": "C. New Dehli",
+            "fourthAnswer": "D. Reykjavik",
+            "correctAnswer": "A. Paris"
+        },
+        {
+            "question": "Which song by Luis Fonsi and Daddy Yankee has the most views (of all time) on YouTube?",
+            "firstAnswer": "A. Baby Shark",
+            "secondAnswer": "B. Shape of You",
+            "thirdAnswer": "C. See You Again",
+            "fourthAnswer": "D. Despacito",
+            "correctAnswer": "D. Despacito"
+        },
+        {
+            "question": "What was the first state?",
+            "firstAnswer": "A. Pennsylvania",
+            "secondAnswer": "B. Delaware",
+            "thirdAnswer": "C. Virginia",
+            "fourthAnswer": "D. Massachusetts",
+            "correctAnswer": "B. Delaware"
+        },
+        {
+            "question": "What is the capital city of Spain?",
+            "firstAnswer": "A. Berlin",
+            "secondAnswer": "B. Rome",
+            "thirdAnswer": "C. Madrid",
+            "fourthAnswer": "D. Bogota",
+            "correctAnswer": "C. Madrid"
+        },
+        {
+            "question": "What is the painting “La Gioconda” more usually known as?",
+            "firstAnswer": "A. American Gothic",
+            "secondAnswer": "B. The Mona Lisa",
+            "thirdAnswer": "C. Nighthawks",
+            "fourthAnswer": "D. La Guernica",
+            "correctAnswer": "B. The Mona Lisa"
+        },
+        {
+            "question": "What is Chandler’s last name in the sitcom Friends?",
+            "firstAnswer": "A. Geller",
+            "secondAnswer": "B. Bing",
+            "thirdAnswer": "C. Tribbiani",
+            "fourthAnswer": "D. Buffay",
+            "correctAnswer": "B. Bing"
+        },
+        {
+            "question": "About how many taste buds does the average human tongue have?",
+            "firstAnswer": "A. 20,000",
+            "secondAnswer": "B. 15,000",
+            "thirdAnswer": "C. 10,000",
+            "fourthAnswer": "D. 30,000",
+            "correctAnswer": "C. 10,000"
+        },
+        {
+            "question": "Globe and Jerusalem are types of what?",
+            "firstAnswer": "A. Asparagus",
+            "secondAnswer": "B. Artichoke",
+            "thirdAnswer": "C. Mushroom",
+            "fourthAnswer": "D. Tomato",
+            "correctAnswer": "B. Artichoke"
+        },
+        {
+            "question": "Which is the highest waterfall in the world?",
+            "firstAnswer": "A. Yosemite Falls",
+            "secondAnswer": "B. Victoria Falls",
+            "thirdAnswer": "C. Tugela Falls",
+            "fourthAnswer": "D. Angel Falls",
+            "correctAnswer": "D. Angel Falls"
+        },
+        {
+            "question": "Ludwig Van Beethoven was born in 1770 in which city?",
+            "firstAnswer": "A. Warsaw",
+            "secondAnswer": "B. Berlin",
+            "thirdAnswer": "C. Munich",
+            "fourthAnswer": "D. St. Petersburg",
+            "correctAnswer": "B. Berlin"
+        },
+        {
+            "question": "What is the third sign of the zodiac?",
+            "firstAnswer": "A. Gemini",
+            "secondAnswer": "B. Scorpio",
+            "thirdAnswer": "C. Taurus",
+            "fourthAnswer": "D. Leo",
+            "correctAnswer": "A. Gemini"
+        },
+        {
+            "question": "Who discovered Penicillin?",
+            "firstAnswer": "A. Pasteur",
+            "secondAnswer": "B. Salk",
+            "thirdAnswer": "C. Fleming",
+            "fourthAnswer": "D. Fauci",
+            "correctAnswer": "C. Fleming"
+        },
+        {
+            "question": "Which name is rapper Sean Combs better known by?",
+            "firstAnswer": "A. Dr. Dre",
+            "secondAnswer": "B. P. Diddy",
+            "thirdAnswer": "C. Snoop Dogg",
+            "fourthAnswer": "D. Big Sean",
+            "correctAnswer": "B. P. Diddy"
+        },
+        {
+            "question": "Which country invented tea?",
+            "firstAnswer": "A. Japan",
+            "secondAnswer": "B. North Korea",
+            "thirdAnswer": "C. France",
+            "fourthAnswer": "D. China",
+            "correctAnswer": "D. China"
+        },
+        {
+            "question": "Pure water has a pH level of around?",
+            "firstAnswer": "A. Seven",
+            "secondAnswer": "B. Eight",
+            "thirdAnswer": "C. Eleven",
+            "fourthAnswer": "D. Four",
+            "correctAnswer": "A. Seven"
+        }
+    ]
+}
